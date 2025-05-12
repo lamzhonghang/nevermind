@@ -17,8 +17,8 @@ Bold | 700
 Extrabold | 800
 Black | 900
 
-![Image](documents/image1.png)
-![Image](documents/image2.png)
+![Image](documentation/image1.png)
+![Image](documentation/image2.png)
 
 ## License
 
