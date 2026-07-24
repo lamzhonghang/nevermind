@@ -1,8 +1,8 @@
-Copyright (c) 2020 Xmind ltd. All Rights Reserved
+Copyright 2025 The Nevermind Project Authors (https://github.com/xmindltd/nevermind)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
+https://openfontlicense.org
 
 
 -----------------------------------------------------------
