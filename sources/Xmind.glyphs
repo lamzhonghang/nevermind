@@ -274451,7 +274451,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2025 The Xmind Project Authors (https://github.com/xmindltd/nevermind)";
+value = "Copyright 2025 The Xmind Project Authors (https://github.com/xmindltd/xmind)";
 }
 );
 },
