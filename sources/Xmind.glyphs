@@ -65,11 +65,18 @@ name = lookup_0;
 );
 features = (
 {
-code = "# feature c2sc;
-feature sups;
-feature locl;
+automatic = 1;
+code = "feature locl;
 feature subs;
 feature sinf;
+feature sups;
+feature frac;
+feature ordn;
+feature case;
+feature cv04;
+feature ss03;
+feature calt;
+feature ordn;
 ";
 tag = aalt;
 },
@@ -23779,7 +23786,7 @@ unicode = 292;
 {
 color = 6;
 glyphname = I;
-lastChange = "2025-12-11 10:41:50 +0000";
+lastChange = "2026-09-02 15:25:21 +0000";
 layers = (
 {
 anchors = (
@@ -23962,7 +23969,7 @@ pos = (495,1443);
 },
 {
 name = topleft;
-pos = (-387,1442);
+pos = (-387,1443);
 }
 );
 layerId = "F66262BA-5A1D-44F4-BFD7-97C08A9A14E5";
@@ -93785,7 +93792,7 @@ color = 6;
 glyphname = idotless;
 kernLeft = sflat;
 kernRight = sflat;
-lastChange = "2025-12-11 10:41:50 +0000";
+lastChange = "2026-09-02 15:25:31 +0000";
 layers = (
 {
 anchors = (
@@ -93944,7 +93951,7 @@ pos = (208,5);
 },
 {
 name = top;
-pos = (448,1150);
+pos = (445,1100);
 }
 );
 layerId = "F66262BA-5A1D-44F4-BFD7-97C08A9A14E5";
@@ -94045,7 +94052,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (135,150);
+pos = (132,100);
 ref = acute;
 }
 );
@@ -94131,7 +94138,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-139,150);
+pos = (-142,100);
 ref = brevecomb;
 }
 );
@@ -94889,7 +94896,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-173,150);
+pos = (-176,100);
 ref = circumflexcomb;
 }
 );
@@ -94977,7 +94984,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-107,150);
+pos = (-110,100);
 ref = dieresiscomb;
 }
 );
@@ -95690,7 +95697,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-59,150);
+pos = (-62,100);
 ref = gravecomb;
 }
 );
@@ -96006,7 +96013,7 @@ pos = (64,0);
 ref = idotless;
 },
 {
-pos = (-13,150);
+pos = (-16,100);
 ref = macroncomb;
 }
 );
@@ -96059,7 +96066,7 @@ pos = (64,0);
 ref = idotless;
 },
 {
-pos = (-13,150);
+pos = (-16,100);
 ref = macroncomb;
 }
 );
@@ -97318,7 +97325,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-185,149);
+pos = (-188,99);
 ref = tildecomb;
 }
 );
@@ -214663,7 +214670,7 @@ unicode = 905;
 color = 10;
 glyphname = Iotatonos;
 kernLeft = Epsilontonos;
-lastChange = "2025-12-11 10:53:19 +0000";
+lastChange = "2026-09-02 15:25:39 +0000";
 layers = (
 {
 background = {
@@ -214989,7 +214996,7 @@ pos = (499,0);
 ref = I;
 },
 {
-pos = (-419,0);
+pos = (-419,1);
 ref = tonos;
 }
 );
@@ -215046,7 +215053,7 @@ pos = (499,0);
 ref = I;
 },
 {
-pos = (-419,0);
+pos = (-419,1);
 ref = tonos;
 }
 );
