@@ -1,15 +1,15 @@
     sources:
-      - Nevermind.glyphs
+      - Xmind.glyphs
     axisOrder:
       - wght
       - ital
-    familyName: "Nevermind"
+    familyName: "Xmind"
     cleanUp: true
     buildOTF: false
     includeSourceFixes: true
     splitItalic: true
     stat:
-      Nevermind[wght].ttf:
+      Xmind[wght].ttf:
       - name: Weight
         tag: wght
         values:
@@ -40,7 +40,7 @@
           value: 0
           linkedValue: 1
           flags: 2
-      Nevermind-Italic[wght].ttf:
+      Xmind-Italic[wght].ttf:
       - name: Weight
         tag: wght
         values:
